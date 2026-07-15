@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0234/v1
 canonical_location: https://kanripo.org/bkk/KR6q0234/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 正覺潤光澤禪師澡雪集
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0234_000.yaml, hash: 'sha256:712f3ce854351bd3e79386ed43a4f7c8bbe7daed2c4e6d2f38d3caa1720eba7a'}
-  - {seq: 1, filename: KR6q0234_001.yaml, hash: 'sha256:e79c21e81b7f6f5fe7a96b575e7d9edf96e7dea476acf2b8fa066521d2710628'}
+  - {seq: 0, filename: KR6q0234_000.yaml, hash: 'sha256:fbba832d1327f2847961c34c52f16d31a0d75531c3681f130fe280e161cf206c'}
+  - {seq: 1, filename: KR6q0234_001.yaml, hash: 'sha256:b04d5117547730bbf4bef63237d68ed6d752bc1150a500f2cb261becb8fccdd1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0234_000.markers.yaml, hash: 'sha256:7feef30b0da4a0ca40ac4b99ef27f841990720c49272b46b99fa952c637cf7b7'}
-  - {seq: 1, role: markers, filename: assets/KR6q0234_001.markers.yaml, hash: 'sha256:2bfd4256bd39e1d89a9baa528fe15322bc7904ac2eff8f299f26debeeca6d50f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0234_000.markers.yaml, hash: 'sha256:fa7f2304f970deda8c035f8a127911c241e59d902ee2dc50e1d750a5575fe500'}
+  - {seq: 1, role: markers, filename: assets/KR6q0234_001.markers.yaml, hash: 'sha256:7238753465efcc28790e81be249fdadc3724ef9d6aae37eaa77b4d3066f8a253'}
 table_of_contents:
 - ref:
     seq: 0
@@ -487,4 +487,7 @@ table_of_contents:
   label: 自狀
   type: mulu
   level: 1
-hash: sha256:2c7e7ba44c5d4a74f9f58a67215787fb436918cab1ec758fbf887e407f477e87
+hash: sha256:31a85269335bbd013f115537a8dce979d4b9f487a1059d3beb737215d9b3ebb2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
